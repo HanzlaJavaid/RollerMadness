@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/lev1.unity
+    guid: 5bbd6edade247e74c9857e2bdfd288ab
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/lev2.unity
+    guid: 54b29b60feb64a84e8e64781d5e71b60
   m_configObjects: {}
